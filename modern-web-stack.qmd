@@ -1,6 +1,8 @@
 ---
 title: "A Modern Web Development Stack"
-format: revealjs
+format: 
+  revealjs:
+    theme: solarized
 ---
 
 # A Modern Web Development Stack
