@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "modern-web-stack.html#pinecone-vector-database",
+    "href": "modern-web-stack.html#pinecone-vector-database",
+    "title": "A Modern Web Development Stack",
+    "section": "Pinecone vector database",
+    "text": "Pinecone vector database\n\nA cloud-native vector database that makes it easy to build high-performance vector search applications\nDeveloper-friendly, fully managed, and easily scalable without infrastructure hassles\nVector search is useful for semantic search, recommendations, anomaly detection, and other applications that rely on relevant information retrieval\nLearn more at https://www.pinecone.io/"
+  },
+  {
+    "objectID": "modern-web-stack.html#react-js",
+    "href": "modern-web-stack.html#react-js",
+    "title": "A Modern Web Development Stack",
+    "section": "React JS",
+    "text": "React JS\n\nA JavaScript library for building user interfaces out of individual pieces called components\nReact lets you create reusable UI components and combine them into entire screens, pages, and apps\nReact is used to build single-page applications and can be added to your existing HTML page\nLearn more at https://reactjs.org/"
+  },
+  {
+    "objectID": "modern-web-stack.html#openai-api",
+    "href": "modern-web-stack.html#openai-api",
+    "title": "A Modern Web Development Stack",
+    "section": "OpenAI API",
+    "text": "OpenAI API\n\nAn API for accessing new AI models developed by OpenAI\nIt can be applied to virtually any task that involves understanding or generating natural language, code, or images\nYou can use the API to access pre-trained models or fine-tune your own custom models\nLearn more at https://openai.com/blog/openai-api/"
+  },
+  {
+    "objectID": "modern-web-stack.html#next-js",
+    "href": "modern-web-stack.html#next-js",
+    "title": "A Modern Web Development Stack",
+    "section": "Next JS",
+    "text": "Next JS\n\nA React framework for building fast and scalable web applications\nNext JS provides features such as server-side rendering, static site generation, code splitting, and dynamic routing\nNext JS also allows you to use React Context for state management across your application\nLearn more at https://nextjs.org/"
+  },
+  {
+    "objectID": "modern-web-stack.html#strengths",
+    "href": "modern-web-stack.html#strengths",
+    "title": "A Modern Web Development Stack",
+    "section": "Strengths:",
+    "text": "Strengths:\n\nThe stack leverages the power of pre-rendering, serverless functions, and headless CMS to deliver fast and secure websites\nThe stack is compatible with Jamstack principles and can help you build amazing web experiences\nThe stack allows you to combine different data types and models to create more complex and innovative applications"
+  },
+  {
+    "objectID": "modern-web-stack.html#weaknesses",
+    "href": "modern-web-stack.html#weaknesses",
+    "title": "A Modern Web Development Stack",
+    "section": "Weaknesses:",
+    "text": "Weaknesses:\n\nThe stack may require a steep learning curve for some technologies or frameworks\nThe stack may have some compatibility issues or limitations with certain features or functionalities\nThe stack may incur higher costs or complexity for scaling or maintaining the applications"
+  },
+  {
+    "objectID": "modern-web-stack.html#summary",
+    "href": "modern-web-stack.html#summary",
+    "title": "A Modern Web Development Stack",
+    "section": "Summary",
+    "text": "Summary\n\nWe learned about a modern web development stack that consists of Pinecone vector database, React JS, OpenAI API, and Next JS\nWe learned about some of the use cases, benefits, and challenges of using this stack\nWe learned about some of the resources and documentation for each part of the stack\n\nThank you for your attention!"
+  }
+]

@@ -1,0 +1,71 @@
+---
+title: "A Modern Web Development Stack"
+format: revealjs
+---
+
+# A Modern Web Development Stack
+
+- Pinecone vector database
+- React JS
+- OpenAI API
+- Next JS
+
+---
+
+## Pinecone vector database
+
+- A cloud-native vector database that makes it easy to build high-performance vector search applications
+- Developer-friendly, fully managed, and easily scalable without infrastructure hassles
+- Vector search is useful for semantic search, recommendations, anomaly detection, and other applications that rely on relevant information retrieval
+- Learn more at [https://www.pinecone.io/](https://www.pinecone.io/)
+
+---
+
+## React JS
+
+- A JavaScript library for building user interfaces out of individual pieces called components
+- React lets you create reusable UI components and combine them into entire screens, pages, and apps
+- React is used to build single-page applications and can be added to your existing HTML page
+- Learn more at [https://reactjs.org/](https://reactjs.org/)
+
+---
+
+## OpenAI API
+
+- An API for accessing new AI models developed by OpenAI
+- It can be applied to virtually any task that involves understanding or generating natural language, code, or images
+- You can use the API to access pre-trained models or fine-tune your own custom models
+- Learn more at [https://openai.com/blog/openai-api/](https://openai.com/blog/openai-api/)
+
+---
+
+## Next JS
+
+- A React framework for building fast and scalable web applications
+- Next JS provides features such as server-side rendering, static site generation, code splitting, and dynamic routing
+- Next JS also allows you to use React Context for state management across your application
+- Learn more at [https://nextjs.org/](https://nextjs.org/)
+
+---
+
+## Strengths:
+
+- The stack leverages the power of pre-rendering, serverless functions, and headless CMS to deliver fast and secure websites
+- The stack is compatible with Jamstack principles and can help you build amazing web experiences
+- The stack allows you to combine different data types and models to create more complex and innovative applications
+
+## Weaknesses:
+
+- The stack may require a steep learning curve for some technologies or frameworks
+- The stack may have some compatibility issues or limitations with certain features or functionalities
+- The stack may incur higher costs or complexity for scaling or maintaining the applications
+
+---
+
+## Summary
+
+- We learned about a modern web development stack that consists of Pinecone vector database, React JS, OpenAI API, and Next JS
+- We learned about some of the use cases, benefits, and challenges of using this stack
+- We learned about some of the resources and documentation for each part of the stack
+
+Thank you for your attention!
